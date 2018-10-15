@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="193.5" y="0.0">Human</node>
+    <node x="256.0" y="212.0">Man</node>
+    <node x="0.0" y="212.0">Woman</node>
+    <node x="226.0" y="336.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Main" target="Woman">
+      <point x="-33.80000000000001" y="-25.5" />
+      <point x="276.7" y="306.0" />
+      <point x="177.0" y="306.0" />
+      <point x="59.0" y="37.0" />
+    </edge>
+    <edge source="Man" target="Human">
+      <point x="54.5" y="-37.0" />
+      <point x="419.5" y="192.0" />
+      <point x="357.3" y="192.0" />
+      <point x="46.80000000000001" y="81.0" />
+    </edge>
+    <edge source="Woman" target="Human">
+      <point x="59.0" y="-37.0" />
+      <point x="177.0" y="192.0" />
+      <point x="263.7" y="192.0" />
+      <point x="-46.80000000000001" y="81.0" />
+    </edge>
+    <edge source="Main" target="Man">
+      <point x="33.80000000000001" y="-25.5" />
+      <point x="344.3" y="306.0" />
+      <point x="419.5" y="306.0" />
+      <point x="54.5" y="37.0" />
+    </edge>
+    <edge source="Main" target="Human">
+      <point x="67.60000000000002" y="-25.5" />
+      <point x="378.1" y="316.0" />
+      <point x="484.5" y="316.0" />
+      <point x="484.5" y="182.0" />
+      <point x="404.1" y="182.0" />
+      <point x="93.60000000000002" y="81.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="77.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
